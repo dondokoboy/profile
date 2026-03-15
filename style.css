@@ -27,6 +27,7 @@ body {
   height: 150px;
   border-radius: 50%; /* 丸くする*/
   object-fit: cover; /* 画像を綺麗にトリミング*/
+  object-position: 50% 80%; /* 画像のトリミング位置の調整 */
   border: 5px solid white;
   margin-bottom: 20px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
